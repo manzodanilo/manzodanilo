@@ -13,9 +13,9 @@ Before data, I co-founded a wine bar with my brother: running a small business t
 
 - **[SDG and SQL country analysis](https://github.com/manzodanilo/SDG-SQL-Report-Country-Analysis)**
   9 PostgreSQL queries on UN Sustainable Development Goals data to compare countries and spot gaps across indicators. *(SQL · PostgreSQL)*
-- **Airbnb guests and sustainable mobility**
+- **[Airbnb guests and sustainable mobility](https://github.com/manzodanilo/Airbnb-guests-and-sustainable-mobility)**
   Analysis of guest data with advanced Excel functions (UNIQUE, FILTER, SORT) to explore mobility habits. *(Excel)*
-- **Predicting soil degradation with machine learning**
+- **[Predicting soil degradation with machine learning](https://github.com/manzodanilo/Predicting-soil-degradation-with-machine-learning)**
   Concept proposal for an ML approach to anticipate soil degradation. *(Concept)*
 
 ➡️ Full details on my portfolio: **[danilomanzo.eu](https://danilomanzo.eu)**
