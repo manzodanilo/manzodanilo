@@ -1,3 +1,4 @@
+![banner](banner.png)
 ## 👋 Hi, I'm Danilo
 
 Junior Data Analyst in training, with a background in Economics and Digital Marketing. I like turning messy data into clear stories that support decisions in marketing, operations and finance.
