@@ -18,7 +18,7 @@ Before data, I co-founded a wine bar with my brother: running a small business t
 - **[Predicting soil degradation with machine learning](https://github.com/manzodanilo/Predicting-soil-degradation-with-machine-learning)**
   Concept proposal for an ML approach to anticipate soil degradation. *(Concept)*
 
-➡️ Full details on my portfolio: **[danilomanzo.eu](https://danilomanzo.eu)**
+➡️ Full details on my portfolio: **[www.danilomanzo.eu](https://danilomanzo.eu)**
 
 ---
 
