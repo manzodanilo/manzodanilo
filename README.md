@@ -11,6 +11,8 @@ Before data, I co-founded a wine bar with my brother: running a small business t
 
 ### 📊 Featured projects
 
+- **[Travel booking management system](https://github.com/manzodanilo/orizon-gestione-prenotazioni)**<br>
+  A Python notebook that records, displays, filters and analyses a travel agency’s bookings, with input data validation and duplicate checks. *(Python · Notebook Jupyter)*
 - **[SDG and SQL country analysis](https://github.com/manzodanilo/SDG-SQL-Report-Country-Analysis)**<br>
   9 PostgreSQL queries on UN Sustainable Development Goals data to compare countries and spot gaps across indicators. *(SQL · PostgreSQL)*
 - **[Airbnb guests and sustainable mobility](https://github.com/manzodanilo/Airbnb-guests-and-sustainable-mobility)**<br>
